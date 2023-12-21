@@ -31,7 +31,6 @@ The RepacksDB API is a Laravel-based project that provides access to a collectio
 - `/games/search/{title}`: Search for games by title.
 - `/games/genre/{genre}`: Filter games by genre.
 - `/games/language/{language}`: Filter games by supported language.
-- `/games/size/{size}`: Filter games by original or repack size.
 - `/games/repacker/{repacker}`: Filter games by repacker.
 - `/games/advanced-search`: Advanced search with customizable criteria.
 
